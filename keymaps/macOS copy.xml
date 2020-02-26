@@ -9,12 +9,19 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -27,4 +34,5 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ShowProjectStructureSettings" />
 </keymap>
