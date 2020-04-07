@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
@@ -14,6 +15,9 @@
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta quote" />
@@ -27,6 +31,7 @@
   <action id="EditorPreviousWordWithSelection">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -38,6 +43,7 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="MethodOverloadSwitchDown" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -45,4 +51,6 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="ShowSearchHistory" />
+  <action id="UsageView.ShowRecentFindUsages" />
 </keymap>
