@@ -25,12 +25,6 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
-  <action id="EditorNextWordWithSelection">
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
-  <action id="EditorPreviousWordWithSelection">
-    <keyboard-shortcut first-keystroke="meta left" />
-  </action>
   <action id="EditorUnSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
