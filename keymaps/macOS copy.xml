@@ -44,6 +44,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowSearchHistory" />
   <action id="UsageView.ShowRecentFindUsages" />
