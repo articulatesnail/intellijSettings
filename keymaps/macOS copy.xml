@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -33,6 +36,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="GotoAction" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
@@ -45,8 +49,12 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="NewScratchFile" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowSearchHistory" />
