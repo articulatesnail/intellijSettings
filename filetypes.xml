@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="hostkey" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
