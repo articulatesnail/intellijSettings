@@ -1,0 +1,5 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Desktop/kafka-rest-utility/src/main/avro/Avro/BusDevInfo.avsc" value="Avro Schema" />
+  </component>
+</application>
