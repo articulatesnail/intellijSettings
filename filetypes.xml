@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="vcontrol_board" type="AUTO_DETECTED" />
       <mapping pattern="SopCard.tsx" type="AUTO_DETECTED" />
       <mapping pattern="BusDevInfo.avsc" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
