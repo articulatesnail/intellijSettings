@@ -4,6 +4,7 @@
       <mapping pattern="BusDevInfo.avsc" type="AUTO_DETECTED" />
       <mapping pattern="vcontrol_board" type="AUTO_DETECTED" />
       <mapping pattern="SopCard.tsx" type="AUTO_DETECTED" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
