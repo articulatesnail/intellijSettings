@@ -1,16 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="BusDevInfo.avsc" type="AUTO_DETECTED" />
       <mapping pattern="vcontrol_board" type="AUTO_DETECTED" />
       <mapping pattern="SopCard.tsx" type="AUTO_DETECTED" />
-      <mapping ext="ng" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="BusDevInfo.avsc" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="hostkey" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="__init__.py" type="Python" />
