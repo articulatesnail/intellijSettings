@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://code-quality.staff.energybox.com" />
+          <token>df9bdf92dfc8df9fdf9adfccdfcbdf9adf9ddfccdf99dfc9dfccdf98dfcbdf9ddf98dfccdf9ddfc8df9edfc9df9ddfcfdfc8df9adfc9dfcfdf92df9adfcbdf9adf99df99df9bdf99df93df93dfcedfc8</token>
+          <option name="name" value="eb_sonarqube" />
+          <disableNotifications>true</disableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
